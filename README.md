@@ -1,7 +1,5 @@
 # About Invoicer - Read the note at the end
 
-#### https://invoicerv2.netlify.app
-
 ![alt](./Screenshot.png)
 
 ## Current Features
